@@ -1,4 +1,6 @@
-### Hi there 👋
+![cccaldas github stats](https://github-readme-stats.vercel.app/api?username=cccaldas&show_icons=true&theme=dracula&title_color=6633cc&icon_color=6633cc)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cccaldas&hide=scss&layout=compact&theme=radical&title_color=6633cc)
+
 
 <!--
 **cccaldas/cccaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
